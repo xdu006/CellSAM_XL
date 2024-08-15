@@ -9,4 +9,4 @@ Full code with ICR and enhancement trials, preliminary tests, and functions. Not
 
 
 
-Web Demo URL: [https://306de50ab4b24ee168.gradio.live](https://huggingface.co/spaces/XDU006/CellSAM_XL)
+Web Demo URL: [https://huggingface.co/spaces/XDU006/CellSAM_XL](https://huggingface.co/spaces/XDU006/CellSAM_XL)
