@@ -23,4 +23,7 @@ Microscopy imaging, renowned for its ability to convey vast amounts of informati
 ![image](https://github.com/user-attachments/assets/546f2ff6-5343-41cf-885b-a70e8594ee22)
 ![image](https://github.com/user-attachments/assets/8bad94a1-9e4b-4719-ae5f-4f07614073d1)
 
+### Sample Output
+![image](https://github.com/user-attachments/assets/8904b3d7-ca11-4d89-beac-b99d221fff2e)
+
 
