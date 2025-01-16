@@ -17,3 +17,10 @@ A set of demo images for use in web interface. Western 4 Left is recommended for
 
 ### Abstract
 Microscopy imaging, renowned for its ability to convey vast amounts of information, has become indispensable in both research and clinical settings. It provides a unique window into cellular life, offering both qualitative and quantitative insights. While fluorescence microscopy delivers valuable data across various fields related to human health, the extraction of this data is often time-consuming and complex due to the large size and volume of images, as well as the expertise required for accurate analysis. CellSAM, a foundational model for cell segmentation, offers automation but is not optimized for quantification and performs poorly on large images. Thus, this study aims to address these limitations by designing a pipeline that enhances CellSAM’s utility for accurate, large-scale quantification tasks. We demonstrate that the image-to-cell size ratio (ICR) significantly influences CellSAM's performance, and by optimizing the ICR, we tile large images to fit appropriately within CellSAM’s input space. Additionally, we show and incorporate image enhancement techniques to boost detection accuracy. The pipeline is completed with channel-specific analysis to differentiate different cell types, and the extracted data is output as a versatile CSV file suitable for downstream applications. Ultimately, we present a fully functional, open-source pipeline with an interactive web interface, tailored for large-scale fluorescence microscopy quantification.
+
+### HuggingFace Example
+
+![image](https://github.com/user-attachments/assets/546f2ff6-5343-41cf-885b-a70e8594ee22)
+![image](https://github.com/user-attachments/assets/8bad94a1-9e4b-4719-ae5f-4f07614073d1)
+
+
