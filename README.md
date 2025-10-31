@@ -3,6 +3,7 @@ CellSAM_XL is a tool for quantitative analysis of large-scale flourescent micros
 
 ### Web Demo URL
 Live demo for testing can be found at [https://huggingface.co/spaces/XDU006/CellSAM_XL](https://huggingface.co/spaces/XDU006/CellSAM_XL). 
+
 Update 2025-10-30: fixed version incompatibility issues with huggingface, gradio, and pytorch updates. 
 
 ### Repo Directory
